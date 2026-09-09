@@ -5,7 +5,7 @@ _In this subfolder you can describe the hardware involved in this prototype. Inc
 
 |Description| Amount | Where |
 |-----------|-----------|------|
-|3D printed parts | 8 | Github / LPL | 
+|3D printed parts | 8 / 9 | Github / LPL | 
 |Nuts  | 4 | jobshop | 
 |bolts | 6 | jobshop | 
 |Bearing  | 1 | jobshop | 
