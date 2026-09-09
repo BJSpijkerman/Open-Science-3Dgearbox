@@ -11,9 +11,7 @@ Each subfolder contains a `_readme.md` file that explains the conventions and pu
 
 In the results section you can see the end product of his gearing system using an open box version of the gear box. This allows the different components to be viewed. 
 
-In documents you can find the STL files to be printed as well as the fusion files which would allow you to tinker with the gear ratios. 
-
-In hardware you can find an overview of the necessary steps to produce the parts and assemble the gearbox. 
+In hardware you can find the STL files to be printed as well as the fusion files which would allow you to tinker with the gear ratios. You can also can find an overview of the necessary steps to produce the parts and assemble the gearbox. 
 
 This template is adjusted to the typical needs of a hardware project made for research or education. 
 
