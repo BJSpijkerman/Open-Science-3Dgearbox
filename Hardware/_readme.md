@@ -8,11 +8,13 @@ _In this subfolder you can describe the hardware involved in this prototype. Inc
 |3D printed parts | 8 / 9 | Github / LPL | 
 |Nuts  | 4 | jobshop | 
 |bolts | 6 | jobshop | 
+|washers/spacers  | 5-7 | jobshop | 
 |Bearing  | 1 | jobshop | 
 |axle / shaft  | 1 | jobshop | 
 |Motor  | 1 | lpl | 
 |Powersupply  | 1 | lpl | 
 |Shaft friction distributor  | 1 | n/a | 
+
 
 ## Fabrication methods and tools
 - 3D printer
