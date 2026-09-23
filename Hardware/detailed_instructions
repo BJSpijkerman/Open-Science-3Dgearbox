@@ -1,1 +1,6 @@
 This is the space for students of the course to produce their improved step-by-step instructions. 
+
+3D printing step-by-step instructions:
+
+1. Understand the setup of the project. The image of how the end product should look like is in Results/Zachgear.JPG. 
+2. Locate the .step files needed to print the parts (all files in Hardware/*.step). Upload them to the *** program on the lab computer.
