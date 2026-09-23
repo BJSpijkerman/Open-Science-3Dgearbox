@@ -27,4 +27,9 @@ Step 14: Insert the roll of chosen fillament, and wire it through the guider. Pu
 Step 15: Look at the colour coming out of the nozzle, let it continue printing till the nozzle exerts the selected color. When achieved, take out the printed stuff and throw it away.
 Step 16: Press 'print' and select the uploaded files on the USB stick. 
 
-
+Making the applyance:
+Step 17: When the printer finished, check if the parts printed correctly and clean them up/sand them if necessary. 
+Some holes are a bit closed when printed so use a drill to open them up. For some subtle hexagonal parts, use a knife to clean it up.
+Step 18 (Motor&Drivegear): Go into LPL and look at drawer 4 of electrical applyances, find a DC moter with a pin om 1.9mm. Check if the pin fits in the drive gear. If not, clean up the drive gear with a 1.9mm drill. 
+Step 19: Find the shaft friction distributer also in drawer 4 of the electrical applyances in lpl.
+Step 19: Find bolts and gears of a 3mm diameter. 
