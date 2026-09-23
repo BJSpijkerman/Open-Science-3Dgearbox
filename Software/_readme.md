@@ -1,2 +1,2 @@
-# Software
-_For hardware projects that have an operating software or firmware, it is a good versioning practice to separate the software code from build instructions into different subfolders._
+# Software: RPM counting software from Daan v/d Putten (incoming)
+
