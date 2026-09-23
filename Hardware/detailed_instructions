@@ -1,6 +1,30 @@
-This is the space for students of the course to produce their improved step-by-step instructions. 
+Step by step instructions for 3D printing
 
-3D printing step-by-step instructions:
+Step 1-9: Preparing the files for printing 
+Step 10-16: Preparing the printer
 
-1. Understand the setup of the project. The image of how the end product should look like is in Results/Zachgear.JPG. 
-2. Locate the .step files needed to print the parts (all files in Hardware/*.step). Upload them to the *** program on the lab computer.
+Step 1: Download the files from the hardware folder containing the components we want to print.
+Step 1.1 (optional): You can vieuw the files if wanted in shareCAD.org or other preferred website.
+Step 2: Put the downloaded files on USB stick.
+Step 3: Log into the computer in Lili's protolab. Open Prusaslicer version 2.9.4.
+Step 4: Upload files from usb into the the program.  Place each part evenly on the plate with enough distance between them.
+Step 5: When placing the parts on the plate, the general idea is that the largest surface is on the plate,
+making the object more stable and less support is needed when printing the structure.
+  -Make sure the 'topplate' and 'drivegear' are turned around. Get it so that the largest surface is on the plate.
+Step 6: Click 'slice now'. This shows how the layers are printed.
+Step 7: Open the setting: 'support' and click on 'support everywhere'. This makes it so that the object you are printing doesnt collapse. 
+After printing you can take out the added support structures.
+Step 8: Select a printer with a 0.4 nozzle printing with ECO PLA [make sure to select the right type of PLA matching the fillament].
+Step 9: Check with the TA if the setup is decent.
+Step 10: Save the document on USB stick, insert it into the selected printer. 
+
+Step 11: Clean the plate of the printer. First take off any plastic pieces with the blue scraper.
+After this, clean it with isopropanol and paper towels. Make sure it is dry.
+Step 12: Pick the color you want to print with. Make sure the type fillament chosen is the same as the selected fillament in step 8.
+Step 13 (only if changing the fillament) : On the printer screen, select 'fillament' and then 'unload fillament'. 
+This gets rid of the current fillament in the nozzle. Take out the unwanted fillament and put the roll back on the shelf. Make sure the wire is looped thourg the holes when putting back the roll.
+Step 14: Insert the roll of chosen fillament, and wire it through the guider. Put the fillament in the nozzle. and select 'change fillament' if it doesn't already select this automatically.
+Step 15: Look at the colour coming out of the nozzle, let it continue printing till the nozzle exerts the selected color. When achieved, take out the printed stuff and throw it away.
+Step 16: Press 'print' and select the uploaded files on the USB stick. 
+
+
