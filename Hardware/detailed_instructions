@@ -11,17 +11,17 @@ Step 4: Upload files from usb into the the program.  Place each part evenly on t
 Step 5: When placing the parts on the plate, the general idea is that the largest surface is on the plate,
 making the object more stable and less support is needed when printing the structure.
   -Make sure the 'topplate' and 'drivegear' are turned around. Get it so that the largest surface is on the plate.
-Step 6: Click 'slice now'. This shows how the layers are printed.
-Step 7: Open the setting: 'support' and click on 'support everywhere'. This makes it so that the object you are printing doesnt collapse. 
+Step 6: Open the setting: 'support' and click on 'support everywhere'. This makes it so that the object you are printing doesnt collapse. 
 After printing you can take out the added support structures.
-Step 8: Select a printer with a 0.4 nozzle printing with ECO PLA [make sure to select the type of PLA matching the fillament you will choose in Step 12]. 
+Step 7: Select a printer with a 0.4 nozzle printing with ECO PLA [make sure to select the type of PLA matching the fillament you will choose in Step 12]. 
+step 8:  Click 'slice now'. This shows how the layers are printed.
 Step 9: Check with the TA if the setup is decent.
 Step 10: Either save the document on USB stick and insert it into the selected printer and follow steps 11 - 16, or follow step 10.1
 Step 10.1: Follow steps 10 - 15 and then click the G button in the lower right corner that sends the file to the printer.
 
-Step 11: Clean the plate of the printer you have selected in Step 8. First take off any plastic pieces with the blue scraper.
+Step 11: Clean the plate of the printer you have selected in Step 7. First take off any plastic pieces with the blue scraper.
 After this, clean it with isopropanol and paper towels. Make sure it is dry.
-Step 12: Pick the color you want to print with (make sure you use a EcoPLA filament that matches the setting selected in Step 8).
+Step 12: Pick the color you want to print with (make sure you use a EcoPLA filament that matches the setting selected in Step 7).
 Step 13 (only if changing the fillament) : On the printer screen, select 'fillament' and then 'unload fillament'. 
 This gets rid of the current fillament in the nozzle. Take out the unwanted fillament and put the roll back on the shelf. Make sure the wire is looped thourg the holes when putting back the roll.
 Step 14: Insert the roll of chosen fillament, and wire it through the guider. Put the fillament in the nozzle. and select 'load fillament' if it doesn't already select this automatically. Select PLA 
