@@ -29,8 +29,19 @@ Step 15: Look at the colour coming out of the nozzle, let it continue printing t
 Step 16: Press 'print' and select the uploaded files on the USB stick. 
 
 Making the applyance:
-Step 17: When the printer finished, check if the parts printed correctly and clean them up/sand them if necessary. 
-Some holes are a bit closed when printed so use a drill to open them up. For some subtle hexagonal parts, use a knife to clean it up.
-Step 18 (Motor&Drivegear): Go into LPL and look at drawer 4 of electrical applyances, find a DC moter with a pin om 1.9mm. Check if the pin fits in the drive gear. If not, clean up the drive gear with a 1.9mm drill. 
-Step 19: Find the shaft friction distributer also in drawer 4 of the electrical applyances in lpl.
-Step 19: Find bolts and gears of a 3mm diameter. 
+Step 17: After the 3d printer finish, use a knife to take off the supports.
+Step 18: Look at the instructions.svg to know how to assembly all the parts together.(NoTE: The spacers and screws use for the gears are plastic ones). You can find them at
+the green drawer as"plastic screws" and "plastic washers".
+Step 19 (Motor&Drivegear): Go into LPL and look at drawer 4 of electrical applyances, find a DC motor with a pin of 1.9mm. Check if the pin fits in the drive gear. 
+Step 20: Find the shaft friction distributer also in drawer 4 of the electrical applyances in lpl.
+Step 21: Find bolts and gears of a 3mm diameter. 
+Step 22: In the green drawer look for ball bearings, take one that fits.
+Step 23: From the H drawer take a rubber tube that fits into the engaging gear "E"(the one that is a bit yellow, you can check the picture "")
+Step 24: Add a bit of blue tape around the rubber tube to make sure the shaft distributor fits and doesn't move.
+Step 25: To make friction with the spinning plate, add some rubber rings (from the F drawer) to the shaft distributer with the aim to add friction between 
+the spinning plate and the shaft distributer.
+Step 26: Introduce the drive gear into the support, and fix it to the table. Add a cutting board below the spinning plate so it doesn't touch the support.
+Step 26: Finally screw the shaft distributer, at a height that the rubber around the shaft distributor touches the spinning plate.
+Step 27: Now, it's turn to power up the engine, use the 
+
+
